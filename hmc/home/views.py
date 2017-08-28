@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from flask import Blueprint, render_template, abort, g
 from flask.blueprints import Blueprint
-from flask_login import login_required
+#from flask_login import login_required
 from jinja2 import TemplateNotFound
 
 home_bp = Blueprint('home', __name__)

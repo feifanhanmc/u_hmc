@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from flask import Blueprint, render_template, abort
-from flask_login import login_required
+#from flask_login import login_required
 from jinja2 import TemplateNotFound
 from flask.blueprints import Blueprint
 
