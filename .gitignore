@@ -1,4 +1,4 @@
 instance/
 venv/
 *.pyc
-
+.qiniu_pythonsdk_hostscache.json
